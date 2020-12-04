@@ -1,6 +1,6 @@
 #Message Authentication Code
 
-import Caesar
+import caesar
 
 sent_message=''
 key=0
